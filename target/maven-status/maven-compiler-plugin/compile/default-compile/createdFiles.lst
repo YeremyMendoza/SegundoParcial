@@ -1,0 +1,5 @@
+com\dao\ProductosDAOImplementacion.class
+com\controlador\Inicio.class
+com\modelo\Producto.class
+com\dao\ProductoDAO.class
+com\utils\ConexionDB.class
